@@ -134,6 +134,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | [myusmini](https://myusmini.com/) | Dedicated Mac | M1/M2, M4, M6 | United States | Dedicated Mac minis in New York with admin access and a ready-to-use dev environment |
 | [Neolo](https://www.neolo.com/) | Dedicated Mac | M4 | United States | Dedicated US-based M4 at $99.99 with a 30-day refund guarantee |
 | [RunMini](https://runmini.com/) | Dedicated Mac | M4 | Singapore, Hong Kong SAR China, United States | Transparent daily-to-quarterly pricing, with better quarterly value |
+| [Vantix Servers](https://vantixservers.com/) | Dedicated Mac | M4, M6, M4 Pro | United States | Dedicated Mac mini in a US rack from $139/month, quarterly or monthly |
 | [VNCMac](https://vncmac.com/) | Dedicated Mac | M4, M4 Pro | Singapore, Japan, South Korea, Hong Kong SAR China, United States | Six locations, dedicated IPv4, root access, and ten-minute delivery |
 | [VPSSpark](https://vpsspark.com/) | Dedicated Mac | M4 | Singapore, Japan, Hong Kong SAR China, United States | Dedicated M4 with Japanese location and dedicated IPv4 |
 | [VunCloud](https://vuncloud.com/) | Dedicated Mac | M4 | Singapore, Japan, South Korea, Hong Kong SAR China, United States | Dedicated M4 across five Asia-Pacific and US West locations |
