@@ -20,6 +20,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | --- | --- | --- | --- | --- |
 | [MacinCloud](https://www.macincloud.com/) | Shared Mac, Dedicated Mac | 未公开的真实 Mac 硬件, M4, M2, M1 | United States, Australia, United Kingdom, Germany, Singapore, India | Managed Mac accounts from $25 across eight global regions |
 | [macmini.tech](https://www.macmini.tech/) | Dedicated Mac | M4 | Singapore, Australia | M4 in Singapore or Australia from ¥360/month on an annual plan |
+| [NewBeeMac](https://newbeemac.com/) | Dedicated Mac | M6 | Australia | Dedicated Mac mini M6 in Melbourne, Australia, from ¥999/month |
 | [RentCC](https://rentcc.app/) | Dedicated Mac, Colocation | M4, 自带设备, M6 | South Korea, Australia | Dedicated Mac minis in South Korea with residential IP; colocation available |
 
 ### Cyprus
