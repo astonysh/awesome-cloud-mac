@@ -148,7 +148,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 
 - [iOS / macOS CI on a cloud Mac](https://cloudmac.dev/en/for/ios-ci/)
 - [Remote development](https://cloudmac.dev/en/for/remote-dev/)
-- [Always-on AI agents](https://cloudmac.dev/en/for/ai-agent/)
+- [AI agents](https://cloudmac.dev/en/for/ai-agent/)
 - [Remote macOS desktop](https://cloudmac.dev/en/for/remote-desktop/)
 - [Xcode Cloud vs hosted runners vs a self-hosted Mac](https://cloudmac.dev/en/guides/cloud-mac-ios-ci/)
 - [Secure remote access to a cloud Mac](https://cloudmac.dev/en/guides/secure-remote-access/)
