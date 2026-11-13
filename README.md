@@ -4,7 +4,7 @@
 
 Every provider below runs on genuine Apple hardware, publishes prices on its own website and can be ordered or contacted directly. Links go to the providers' official websites.
 
-This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac.dev/en/)**, where each plan is compared by data-center location, remote access (SSH / VNC / admin rights), hardware and dated prices. The same data is available as JSON at [cloudmac.dev/api/providers.json](https://cloudmac.dev/api/providers.json).
+This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac.dev/)**, where each plan is compared by data-center location, remote access (SSH / VNC / admin rights), hardware and dated prices. The same data is available as JSON at [cloudmac.dev/api/providers.json](https://cloudmac.dev/api/providers.json).
 
 ## Contents
 
@@ -146,15 +146,15 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 
 ## Use-case guides
 
-- [iOS / macOS CI on a cloud Mac](https://cloudmac.dev/en/for/ios-ci/)
-- [Remote development](https://cloudmac.dev/en/for/remote-dev/)
-- [AI agents](https://cloudmac.dev/en/for/ai-agent/)
-- [Remote macOS desktop](https://cloudmac.dev/en/for/remote-desktop/)
-- [Xcode Cloud vs hosted runners vs a self-hosted Mac](https://cloudmac.dev/en/guides/cloud-mac-ios-ci/)
-- [Secure remote access to a cloud Mac](https://cloudmac.dev/en/guides/secure-remote-access/)
+- [iOS / macOS CI on a cloud Mac](https://cloudmac.dev/for/ios-ci/)
+- [Remote development](https://cloudmac.dev/for/remote-dev/)
+- [AI agents](https://cloudmac.dev/for/ai-agent/)
+- [Remote macOS desktop](https://cloudmac.dev/for/remote-desktop/)
+- [Xcode Cloud vs hosted runners vs a self-hosted Mac](https://cloudmac.dev/guides/cloud-mac-ios-ci/)
+- [Secure remote access to a cloud Mac](https://cloudmac.dev/guides/secure-remote-access/)
 
 ## Contributing
 
-Know a provider that is missing? Open an issue or pull request here, or read the [listing criteria](https://cloudmac.dev/en/criteria/) and [partner feed](https://cloudmac.dev/en/partners/) on cloudmac.dev. Providers must run real Apple hardware, publish prices and be reachable. No Hackintosh and no Mac-style Linux desktops.
+Know a provider that is missing? Open an issue or pull request here, or read the [listing criteria](https://cloudmac.dev/criteria/) and [partner feed](https://cloudmac.dev/partners/) on cloudmac.dev. Providers must run real Apple hardware, publish prices and be reachable. No Hackintosh and no Mac-style Linux desktops.
 
 Provider names and trademarks belong to their respective owners. Prices change; always check the provider's website.
