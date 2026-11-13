@@ -28,6 +28,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | Provider | Type | Chips | Locations | Notes |
 | --- | --- | --- | --- | --- |
 | [RentAMac](https://rentamac.io/) | Dedicated Mac | M4 | Cyprus | Dedicated M4 in Cyprus for $119, currently fully allocated |
+| [SoloRack](https://solorack.com/) | Dedicated Mac | M6 | Cyprus | Dedicated Mac mini M6 from $19/day or $112/month |
 
 ### France
 
@@ -85,6 +86,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | --- | --- | --- | --- | --- |
 | [Green Mini](https://www.greenmini.nl/) | Dedicated Mac, Colocation | M2, M4, M4 Pro, M3 Ultra | Netherlands | Dedicated M4 in the Netherlands from €74, plus Mac colocation |
 | [JUUZ Cloud](https://juuz.com/cloud/) | Dedicated Mac | M2 | Netherlands | Dedicated Macs in Amsterdam, with an 8GB M2 at €79/month |
+| [Macswarm](https://macswarm.com/) | Coding agent environment | Apple silicon | Netherlands, United States | macOS VMs for coding agents, billed per Pod-hour; Pro at $99/month |
 | [vBoxx Mac Hosting](https://mac-hosting.vboxx.eu/) | Dedicated Mac | M4 | Netherlands | Dedicated M4 in the Netherlands from €110 with public IP and remote power |
 
 ### Singapore
@@ -132,6 +134,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | [MacHerald](https://macherald.com/) | Dedicated Mac | M6 | United States | Dedicated Mac mini M6 in the NYC metro from $99/month, no contract; waitlisted |
 | [MacinCloud](https://www.macincloud.com/) | Shared Mac, Dedicated Mac | 未公开的真实 Mac 硬件, M4, M2, M1 | United States, Australia, United Kingdom, Germany, Singapore, India | Managed Mac accounts from $25 across eight global regions |
 | [Macly](https://macly.io/) | Dedicated Mac | M4 | United States | Cloud Mac minis for always-on AI agents, available by the day |
+| [Macswarm](https://macswarm.com/) | Coding agent environment | Apple silicon | Netherlands, United States | macOS VMs for coding agents, billed per Pod-hour; Pro at $99/month |
 | [myusmini](https://myusmini.com/) | Dedicated Mac | M1/M2, M4, M6 | United States | Dedicated Mac minis in New York with admin access and a ready-to-use dev environment |
 | [Neolo](https://www.neolo.com/) | Dedicated Mac | M4 | United States | Dedicated US-based M4 at $99.99 with a 30-day refund guarantee |
 | [RunMini](https://runmini.com/) | Dedicated Mac | M4 | Singapore, Hong Kong SAR China, United States | Transparent daily-to-quarterly pricing, with better quarterly value |
