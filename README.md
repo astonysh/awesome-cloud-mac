@@ -120,6 +120,7 @@ This list is generated from the dataset behind **[cloudmac.dev](https://cloudmac
 | Provider | Type | Chips | Locations | Notes |
 | --- | --- | --- | --- | --- |
 | [MacinCloud](https://www.macincloud.com/) | Shared Mac, Dedicated Mac | 未公开的真实 Mac 硬件, M4, M2, M1 | United States, Australia, United Kingdom, Germany, Singapore, India | Managed Mac accounts from $25 across eight global regions |
+| [MetalCloud](https://metalcloud.space/) | Compute API | M3 Ultra | United Kingdom | UK Mac Studio M3 Ultra with 512GB, billed by the job-hour from £6.95 |
 
 ### United States
 
